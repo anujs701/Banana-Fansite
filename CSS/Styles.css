@@ -1,0 +1,47 @@
+
+/*******************************************************TAG SELECTORS******************************************************************/
+h1{
+  color: Pink;
+  font-size: 50px;
+}
+p{
+  font-style: oblique;
+}
+body{
+  background-color: #E6B325;
+
+}
+img:hover{
+  height: 350px;
+  background-color: black;
+}
+/********************************************************ClASS SELECTORS***************************************************************/
+.bike{
+  background-color: purple;
+}
+.Broccoli{
+  background-color: green;
+}
+.circular{
+border-radius: 100%;
+}
+.banana{
+  background-color: inherit;
+  border-width: 50;
+  border-style: solid;
+  border-color: red;
+  border-radius: 100%;
+  top: 20px;
+}
+.gol{
+  border-radius: 100%;
+}
+.div1{
+  background-color: #D07000;
+}
+
+/***********************************************************ID SELECTORS****************************************************************/
+#heading{
+  background-color: #C55300;
+  color: Black;
+}
